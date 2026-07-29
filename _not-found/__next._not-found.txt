@@ -2,4 +2,4 @@
 2:I[8316,["/tone-lab-x100f-site/_next/static/chunks/0gmvzp6.s.kri.js"],"default"]
 3:I[65802,["/tone-lab-x100f-site/_next/static/chunks/0gmvzp6.s.kri.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"TJz0lqIBtBp-q_bsjy1Q0"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Ckq9FBvWOQNpSj3mGMUV2"}

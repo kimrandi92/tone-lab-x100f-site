@@ -1,4 +1,4 @@
-const CACHE_NAME = "tone-lab-offline-v12";
+const CACHE_NAME = "tone-lab-offline-v13";
 const APP_ROOT = new URL("./", self.registration.scope).toString();
 const CORE_FILES = [
   APP_ROOT,
