@@ -1,0 +1,19 @@
+{
+  "name": "Tone Lab — X100F Recipe Curator",
+  "short_name": "Tone Lab",
+  "description": "날씨, 무드와 사진에 맞는 Fujifilm X100F 레시피를 추천합니다.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e8e6de",
+  "theme_color": "#e8e6de",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
