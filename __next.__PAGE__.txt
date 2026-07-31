@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[98800,["/tone-lab-x100f-site/_next/static/chunks/0gmvzp6.s.kri.js","/tone-lab-x100f-site/_next/static/chunks/0o.-obj054~wj.js"],"RecipeApp"]
+2:I[98800,["/tone-lab-x100f-site/_next/static/chunks/0gmvzp6.s.kri.js","/tone-lab-x100f-site/_next/static/chunks/0p8wbku9y_i~0.js"],"RecipeApp"]
 3:I[94719,["/tone-lab-x100f-site/_next/static/chunks/0gmvzp6.s.kri.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/tone-lab-x100f-site/_next/static/chunks/0o.-obj054~wj.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QDWYKUCHFyFiYqCnaJeUT"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/tone-lab-x100f-site/_next/static/chunks/0p8wbku9y_i~0.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nJW739hxXGGE7c2JeUvWa"}
 5:null
